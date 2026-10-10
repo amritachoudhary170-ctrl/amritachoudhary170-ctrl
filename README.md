@@ -7,6 +7,6 @@ B.Tech CSE Student Learning Python, Java, DSA, Maths & AI/ML Building projects a
 - Tools: Git, GitHub, VS Code
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/amrita-choudhary-b48606401
+- LinkedIn: www.linkedin.com/in/amrita-choudhary-3f   
 - Email: amritah.choudhary@gmail.com
 
